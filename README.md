@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @liyuancloud at Nordcloud
+- 👋 Hi, I’m @liyuancloud
 - 🌱 I’m currently learning cloud architecture
 
 <!---
